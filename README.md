@@ -7,10 +7,11 @@ Data Scientist and Data Detective
 I am a Data Scientist who loves coming up with solutions to problems using data and technology, using whatever means necessary...
 
 * 🌍  I'm based in São Paulo
-* ✉️  You can contact me at [alex\_keila@hotmail.com](mailto:alex_keila@hotmail.com)
 * 🧠  I'm learning how to use Large Language Models to enchance products and services
 * 🤝  I'm open to collaborating on interesting Machine Learning projects
 * 🔭 I’m currently working on a App to help executives to "talk" to their databases uning Natural Language (no need to know SQL anymore)!!
+* ✉️  You can contact me at [alex\_keila@hotmail.com](mailto:alex_keila@hotmail.com)
+
 
 ### Skills
 
@@ -34,9 +35,12 @@ I am a Data Scientist who loves coming up with solutions to problems using data 
 
 <a href="https://github.com/alexkeila" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkeila&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
+<!--
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/alexkeila/https://github.com/alexkeila/udacity_data_science_nanodegree_project_1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alexkeila&repo=https://github.com/alexkeila/udacity_data_science_nanodegree_project_1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+-->
 
 
 
